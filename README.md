@@ -103,4 +103,6 @@ The script currently supports searching for the username on the following websit
 - Tracky
 - Basecamp
 
+#Youtube tutorial for search24.py
+https://youtu.be/GqL6EhV2Y8s
 
